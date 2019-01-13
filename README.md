@@ -4,7 +4,7 @@
 1. Use `call()` and `apply()` to invoke a function with an explicit value for `this`
 2. Explain the difference between `call()` and `apply()` in the way you pass arguments to the target function.
 3. Use `bind()` to execute functions asynchronously
-
+ok 
 ## Alternate Ways to Invoke Functions
 In our exploration of `this`, we saw how it can change depending on how it is called.  Let's see a quick example:
 
